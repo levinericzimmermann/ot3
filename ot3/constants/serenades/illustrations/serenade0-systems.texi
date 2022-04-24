@@ -1,0 +1,4 @@
+@image{serenade0-1}
+@image{serenade0-2}
+@image{serenade0-3}
+@c eof
